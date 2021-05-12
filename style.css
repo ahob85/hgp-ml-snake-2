@@ -1,0 +1,30 @@
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  text-align: center;
+}
+
+div, div * {
+  margin: 10 auto;
+  text-align: inherit;
+}
+
+canvas {
+  margin: 0 auto;
+  border: 2px solid black;
+}
+
+
+button, input {
+  margin: 0 auto;
+  text-align: center;
+}
+
+
+/* Create your styles below */
